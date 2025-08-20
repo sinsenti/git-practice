@@ -1,5 +1,7 @@
 Added secondFile.txt to git_1 modify 1.2
 Added secondFile.txt to git_1 modify 1.2
+Added secondFile.txt to git_1 modify 1
+Added secondFile.txt to git_1 modify 1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
